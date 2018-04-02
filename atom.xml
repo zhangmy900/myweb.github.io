@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-02T13:20:24.088Z</updated>
+  <updated>2018-04-02T13:23:28.815Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2018/04/02/newpic/"/>
     <id>http://yoursite.com/2018/04/02/newpic/</id>
     <published>2018-04-02T13:10:29.000Z</published>
-    <updated>2018-04-02T13:20:24.088Z</updated>
+    <updated>2018-04-02T13:23:28.815Z</updated>
     
-    <content type="html"><![CDATA[<p>newpic<br><img src="/2018/04/02/newpic/123.jpg" alt="这只是一篇测试博文"></p>]]></content>
+    <content type="html"><![CDATA[<p>newpic<br>!(/newpic/123.jpg)</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;newpic&lt;br&gt;&lt;img src=&quot;/2018/04/02/newpic/123.jpg&quot; alt=&quot;这只是一篇测试博文&quot;&gt;&lt;/p&gt;
+        &lt;p&gt;newpic&lt;br&gt;!(/newpic/123.jpg)&lt;/p&gt;
 
       
     
@@ -43,9 +43,17 @@
     <link href="http://yoursite.com/2018/04/02/%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
     <id>http://yoursite.com/2018/04/02/插入图片测试/</id>
     <published>2018-04-02T13:06:08.497Z</published>
-    <updated>2018-04-02T13:08:05.229Z</updated>
+    <updated>2018-04-02T13:25:12.513Z</updated>
+    
+    <content type="html"><![CDATA[<p>插入图片测试</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;插入图片测试&lt;/p&gt;
+
+      
     
     </summary>
     
