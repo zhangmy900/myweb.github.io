@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-02T13:59:09.369Z</updated>
+  <updated>2018-04-02T14:01:39.917Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,9 @@
     <link href="http://yoursite.com/2018/04/02/20180402/"/>
     <id>http://yoursite.com/2018/04/02/20180402/</id>
     <published>2018-04-02T13:56:57.604Z</published>
-    <updated>2018-04-02T13:59:09.369Z</updated>
-    
-    <content type="html"><![CDATA[<p>修改了<em>config.yml，把 repo: <a href="https://github.com/zhangmy900/zhangmy900.github.io.git改为repo" target="_blank" rel="noopener">https://github.com/zhangmy900/zhangmy900.github.io.git改为repo</a>: git@github.com:zhangmy900/zhangmy900.github.io.git，<br>我太崇拜自己啦，O(∩</em>∩)O哈哈~</p>]]></content>
+    <updated>2018-04-02T14:01:39.917Z</updated>
     
     <summary type="html">
-    
-      
-      
-        &lt;p&gt;修改了&lt;em&gt;config.yml，把 repo: &lt;a href=&quot;https://github.com/zhangmy900/zhangmy900.github.io.git改为repo&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://g
-      
     
     </summary>
     
@@ -42,16 +35,15 @@
     <link href="http://yoursite.com/2018/04/02/newpic/"/>
     <id>http://yoursite.com/2018/04/02/newpic/</id>
     <published>2018-04-02T13:10:29.000Z</published>
-    <updated>2018-04-02T13:23:28.815Z</updated>
+    <updated>2018-04-02T14:02:03.446Z</updated>
     
-    <content type="html"><![CDATA[<p>newpic<br>!(/newpic/123.jpg)</p>]]></content>
+    <content type="html"><![CDATA[<p>newpic<br>!(/newpic/123.jpg)<br>修改了<em>config.yml，把 repo: <a href="https://github.com/zhangmy900/zhangmy900.github.io.git改为repo" target="_blank" rel="noopener">https://github.com/zhangmy900/zhangmy900.github.io.git改为repo</a>: git@github.com:zhangmy900/zhangmy900.github.io.git，<br>我太崇拜自己啦，O(∩</em>∩)O哈哈~<br>但是怎么还是不能显示图片，哪里的问题，继续捯饬。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;newpic&lt;br&gt;!(/newpic/123.jpg)&lt;/p&gt;
-
+        &lt;p&gt;newpic&lt;br&gt;!(/newpic/123.jpg)&lt;br&gt;修改了&lt;em&gt;config.yml，把 repo: &lt;a href=&quot;https://github.com/zhangmy900/zhangmy900.github.io.git改为repo&quot; target=&quot;
       
     
     </summary>
