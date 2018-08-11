@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-02T14:01:39.917Z</updated>
+  <updated>2018-02-12T08:47:19.893Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,41 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>捯饬好了</title>
-    <link href="http://yoursite.com/2018/04/02/20180402/"/>
-    <id>http://yoursite.com/2018/04/02/20180402/</id>
-    <published>2018-04-02T13:56:57.604Z</published>
-    <updated>2018-04-02T14:01:39.917Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>newpic</title>
-    <link href="http://yoursite.com/2018/04/02/newpic/"/>
-    <id>http://yoursite.com/2018/04/02/newpic/</id>
-    <published>2018-04-02T13:10:29.000Z</published>
-    <updated>2018-04-02T14:03:51.673Z</updated>
-    
-    <content type="html"><![CDATA[<p>newpic<br><img src="/2018/04/02/newpic/123.jpg" alt="mypic"><br>修改了<em>config.yml，把 repo: <a href="https://github.com/zhangmy900/zhangmy900.github.io.git改为repo" target="_blank" rel="noopener">https://github.com/zhangmy900/zhangmy900.github.io.git改为repo</a>: git@github.com:zhangmy900/zhangmy900.github.io.git，<br>我太崇拜自己啦，O(∩</em>∩)O哈哈~<br>但是怎么还是不能显示图片，哪里的问题，继续捯饬。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;newpic&lt;br&gt;&lt;img src=&quot;/2018/04/02/newpic/123.jpg&quot; alt=&quot;mypic&quot;&gt;&lt;br&gt;修改了&lt;em&gt;config.yml，把 repo: &lt;a href=&quot;https://github.com/zhangmy900/zhangmy9
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>真是笨啊</title>
